@@ -8,7 +8,7 @@ A clean, modern Todo application built with Flutter for persistent local storage
 * **Interactive:** Add tasks via dialog, toggle completion, and long-press to delete.
 
 ## 📸 Preview
-<img src="screenshot.png" width="300">
+![App Screenshot](lib/screenshot.png)
 
 ## 🛠️ How to Run
 1. Clone the repo.
